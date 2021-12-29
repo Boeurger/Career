@@ -37,6 +37,9 @@ namespace SchoolFormsApp
             }
 
             MessageBox.Show(testSchool.ToString());
+
+            var teacher = new Teacher(); //for test only - remove later
+            student.
         }
     }
 }
