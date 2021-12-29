@@ -1,0 +1,12 @@
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb

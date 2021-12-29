@@ -1,0 +1,9 @@
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.deps.json
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.dll
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.pdb
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfoInputs.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb
