@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SchoolLibrary;
 
 namespace SchoolFormsApp
 {
@@ -15,6 +16,13 @@ namespace SchoolFormsApp
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnPushToTest_Click(object sender, EventArgs e)
+        {
+            var testSchool = new School();
+            testSchool.Name = "Central City High";
+            testSchool.TwitterAddress = "@CentralCityHigh";
         }
     }
 }

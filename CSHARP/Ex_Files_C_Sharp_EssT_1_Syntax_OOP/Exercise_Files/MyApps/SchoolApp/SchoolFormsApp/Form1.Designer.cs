@@ -49,7 +49,7 @@ namespace SchoolFormsApp
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(25, 37);
+            this.label1.Location = new System.Drawing.Point(67, 53);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(92, 17);
             this.label1.TabIndex = 0;
@@ -58,7 +58,7 @@ namespace SchoolFormsApp
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(36, 75);
+            this.label2.Location = new System.Drawing.Point(78, 91);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(60, 17);
             this.label2.TabIndex = 1;
@@ -67,7 +67,7 @@ namespace SchoolFormsApp
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(36, 114);
+            this.label3.Location = new System.Drawing.Point(78, 130);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(31, 17);
             this.label3.TabIndex = 2;
@@ -76,7 +76,7 @@ namespace SchoolFormsApp
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(36, 158);
+            this.label4.Location = new System.Drawing.Point(78, 174);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(41, 17);
             this.label4.TabIndex = 3;
@@ -85,7 +85,7 @@ namespace SchoolFormsApp
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(36, 199);
+            this.label5.Location = new System.Drawing.Point(78, 215);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(28, 17);
             this.label5.TabIndex = 4;
@@ -94,7 +94,7 @@ namespace SchoolFormsApp
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(36, 233);
+            this.label6.Location = new System.Drawing.Point(78, 249);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(49, 17);
             this.label6.TabIndex = 5;
@@ -103,7 +103,7 @@ namespace SchoolFormsApp
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(36, 271);
+            this.label7.Location = new System.Drawing.Point(78, 287);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(50, 17);
             this.label7.TabIndex = 6;
@@ -111,67 +111,68 @@ namespace SchoolFormsApp
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(123, 34);
+            this.txtName.Location = new System.Drawing.Point(165, 50);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(100, 22);
+            this.txtName.Size = new System.Drawing.Size(153, 22);
             this.txtName.TabIndex = 7;
             // 
             // txtAddress
             // 
-            this.txtAddress.Location = new System.Drawing.Point(123, 72);
+            this.txtAddress.Location = new System.Drawing.Point(165, 88);
             this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(100, 22);
+            this.txtAddress.Size = new System.Drawing.Size(153, 22);
             this.txtAddress.TabIndex = 8;
             // 
             // txtCity
             // 
-            this.txtCity.Location = new System.Drawing.Point(123, 111);
+            this.txtCity.Location = new System.Drawing.Point(165, 127);
             this.txtCity.Name = "txtCity";
-            this.txtCity.Size = new System.Drawing.Size(100, 22);
+            this.txtCity.Size = new System.Drawing.Size(153, 22);
             this.txtCity.TabIndex = 9;
             // 
             // txtState
             // 
-            this.txtState.Location = new System.Drawing.Point(123, 155);
+            this.txtState.Location = new System.Drawing.Point(165, 171);
             this.txtState.Name = "txtState";
-            this.txtState.Size = new System.Drawing.Size(100, 22);
+            this.txtState.Size = new System.Drawing.Size(153, 22);
             this.txtState.TabIndex = 10;
             // 
             // txtZip
             // 
-            this.txtZip.Location = new System.Drawing.Point(123, 196);
+            this.txtZip.Location = new System.Drawing.Point(165, 212);
             this.txtZip.Name = "txtZip";
-            this.txtZip.Size = new System.Drawing.Size(100, 22);
+            this.txtZip.Size = new System.Drawing.Size(153, 22);
             this.txtZip.TabIndex = 11;
             // 
             // txtPhone
             // 
-            this.txtPhone.Location = new System.Drawing.Point(123, 230);
+            this.txtPhone.Location = new System.Drawing.Point(165, 246);
             this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(100, 22);
+            this.txtPhone.Size = new System.Drawing.Size(153, 22);
             this.txtPhone.TabIndex = 12;
             // 
             // txtTwitter
             // 
-            this.txtTwitter.Location = new System.Drawing.Point(123, 268);
+            this.txtTwitter.Location = new System.Drawing.Point(165, 284);
             this.txtTwitter.Name = "txtTwitter";
-            this.txtTwitter.Size = new System.Drawing.Size(100, 22);
+            this.txtTwitter.Size = new System.Drawing.Size(153, 22);
             this.txtTwitter.TabIndex = 13;
             // 
             // btnPushToTest
             // 
-            this.btnPushToTest.Location = new System.Drawing.Point(87, 326);
+            this.btnPushToTest.Location = new System.Drawing.Point(129, 342);
             this.btnPushToTest.Name = "btnPushToTest";
-            this.btnPushToTest.Size = new System.Drawing.Size(123, 37);
+            this.btnPushToTest.Size = new System.Drawing.Size(176, 37);
             this.btnPushToTest.TabIndex = 14;
             this.btnPushToTest.Text = "Push To Test";
             this.btnPushToTest.UseVisualStyleBackColor = true;
+            this.btnPushToTest.Click += new System.EventHandler(this.btnPushToTest_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(389, 465);
             this.Controls.Add(this.btnPushToTest);
             this.Controls.Add(this.txtTwitter);
             this.Controls.Add(this.txtPhone);
