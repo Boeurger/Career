@@ -1,0 +1,7 @@
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+D:\AAA\Career\CSHARP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise_Files\MyApps\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
