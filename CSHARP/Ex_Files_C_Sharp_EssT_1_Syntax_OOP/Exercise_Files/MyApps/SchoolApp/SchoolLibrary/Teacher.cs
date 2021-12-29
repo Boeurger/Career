@@ -11,7 +11,7 @@ namespace SchoolLibrary
         public override float ComputeGradeAverage()
         {
             //TODO: fix implementation later
-            return 4.0f;
+            return 0.0f;
         }
     }
 }
