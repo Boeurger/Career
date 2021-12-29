@@ -25,7 +25,7 @@ namespace SchoolLibrary
                     _twitterAddress = value;
                 } else
                 {
-                    throw new Exception("The twitter address must begin with @");
+                    throw new Exception("The twitter address must begin with @.");
                 }
             }
         }
