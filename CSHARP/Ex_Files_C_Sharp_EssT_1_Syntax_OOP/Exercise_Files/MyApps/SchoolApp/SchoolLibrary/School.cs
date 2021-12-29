@@ -56,7 +56,19 @@ namespace SchoolLibrary
             return result;
         }
 
-        
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine(Name);
+            sb.AppendLine(this.Address);
+            sb.AppendLine(City);
+            sb.Append(", ");
+            sb.Append(State);
+            sb.Append("  ");
+            sb.Append(Zip);
+
+            return sb.ToString();
+        }
 
     }
 }
